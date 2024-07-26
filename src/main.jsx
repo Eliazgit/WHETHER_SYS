@@ -6,6 +6,8 @@ import './style/weatherStyles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+
     <WhetherApp></WhetherApp>
+    
   </React.StrictMode>,
 )
